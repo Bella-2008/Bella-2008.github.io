@@ -1,0 +1,118 @@
+body {
+  background: white;
+}
+.bo{
+  background: rgb(11, 242, 240);
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family:fantasy;
+  font-size: 65px;
+  text-shadow: 4px 4px rgb(13, 31, 242);
+}
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
+.f {
+  font-family: cursive;
+  font-size: 20px;
+}
+li {
+  font-family: cursive;
+  font-size: 20px;
+}
+.e {
+  font-family: cursive;
+  font-size: 18px;
+}
+.Welcome {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+.h {
+  font-size: 25px;
+  display:flex;
+  justify-content: center;
+}
+.AboutUs {
+  text-align: left;
+  
+  
+}
+.back {
+  text-align: left;
+}
+.Facials {
+  width: 250px;
+  height: 210px;
+  display: flex;
+  flex-flow: column wrap;
+}
+.Heli {
+width: 390px;
+  height: 300px;
+  border-radius: 35px;
+  border-style:solid;
+  display: flex;
+  color: black;
+  flex-direction: row;
+  margin: 90px;
+  
+}
+
+.Heli-container {
+  display: flex;
+  flex-direction: row;
+  margin: 90px;
+  
+ 
+ 
+}
+
+.Helo-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: center;
+  justify-content: space-evenly;
+  height: 300px;
+}
+.About {
+  text-align: center;
+  font-size: 35px;
+  
+}
+.d {
+  width: 30px;
+  height: 30px;
+}
+h4 {
+  text-align: justify;
+}
+.Question {
+  letter-spacing:2px;
+}
+.Q {
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.beauty {
+  width:190px; 
+  height: 251px;
+  float:left;
+  margin: 15px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+}
